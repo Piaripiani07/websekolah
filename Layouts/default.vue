@@ -2,6 +2,6 @@
   <div>
     <Header />
     <slot />
-    <Contact />
+    <contact />
   </div>
 </template>
